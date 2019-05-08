@@ -1,24 +1,9 @@
-# README
+ドットインストールを参考にして作成したブログアプリです。フレームワークとしてRuby on Railsを使用しています。
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+ブログの機能としては次のことが可能です。
 
-Things you may want to cover:
+・記事の投稿
+・記事の編集
+・記事の削除
+・記事へのコメントの追加/削除
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
