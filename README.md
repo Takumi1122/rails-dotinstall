@@ -10,3 +10,4 @@
 
 ・記事へのコメントの追加/削除
 
+参考サイト：[Ruby on Rails 5入門](https://dotinstall.com/lessons/basic_rails_v3 "Ruby on Rails 5入門")
